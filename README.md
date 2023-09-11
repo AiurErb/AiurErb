@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aiur Erbaktanov
-- 👀 I’m interested in Java and programming
+- 👀 I’m interested in Java, C# and programming
 - 🌱 I’m currently learning myself
 - 💞️ I’m looking to collaborate with a mentor
 - 📫 How to reach me ...
